@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseandreaslie" alt="joseandreaslie" /></a> </p>
 
-- 🔭 I’m currently working on **Apple Developer Academy**
+- 🔭 I’m currently a student on **Apple Developer Academy**
 
 - 🌱 I’m currently learning **iOS Developing in general**
 
